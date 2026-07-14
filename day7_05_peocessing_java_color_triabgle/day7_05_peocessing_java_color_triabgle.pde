@@ -1,0 +1,11 @@
+//day7_05_peocessing_java_color_triabgle
+size(500,500,P2D);
+background(0);
+beginShape();
+fill(255,0,0);
+vertex(255,80);
+fill(0,255,0);
+vertex(430,380);
+fill(0,0,255);
+vertex(70,380);
+endShape();

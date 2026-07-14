@@ -1,0 +1,5 @@
+#day7_01_python_IDLE_input_int_for_print
+N=int(input("請輸入整數N"))
+for i in range (N):
+        print(i)
+        
